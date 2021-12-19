@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2465b6b6-ee35-4fbf-8fd6-2ca6acc60041" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/core/tests/tests_forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/tests/tests_forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/core/tests/tests_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/tests/tests_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangounittests/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangounittests/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangounittests/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangounittests/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XLLKialIoqP5hF5W3jHNyYeend" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/apps/core/tests" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="djangounittests" type="Python.DjangoServer" factoryName="Django server">
+      <module name="djangounittests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2465b6b6-ee35-4fbf-8fd6-2ca6acc60041" name="Default Changelist" comment="" />
+      <created>1580820365692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580820365692</updated>
+      <workItem from="1580820380372" duration="4450000" />
+      <workItem from="1580839474485" duration="834000" />
+      <workItem from="1580907318979" duration="3828000" />
+      <workItem from="1581084357599" duration="626000" />
+      <workItem from="1581119535934" duration="619000" />
+      <workItem from="1581337769651" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="60" width="800" height="680" key="#Notifications" timestamp="1581337787045">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="278" y="60" width="800" height="680" key="#Notifications/0.30.1366.738@0.30.1366.738" timestamp="1581337787045" />
+    <state x="278" y="60" width="800" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580907342248">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="278" y="60" width="800" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1580907342248" />
+    <state x="460" y="159" width="424" height="487" key="FileChooserDialogImpl" timestamp="1580820433503">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="460" y="159" width="424" height="487" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1580820433503" />
+    <state x="187" y="34" width="992" height="733" key="SettingsEditor" timestamp="1581337937336">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="187" y="34" width="992" height="733" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1581337937336" />
+  </component>
+</project>
